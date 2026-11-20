@@ -17,6 +17,7 @@
 - Machine Learning: Scikit-learn
 - Deep Learning: ANN, CNN
 - Tools: Jupyter Notebook, VS Code, GitHub
+- 
 
 ## Projects
 
